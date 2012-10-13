@@ -1,4 +1,0 @@
-sobo
-====
-
-sobo test development
